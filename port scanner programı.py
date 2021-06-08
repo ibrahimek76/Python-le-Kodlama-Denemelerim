@@ -1,6 +1,6 @@
 import os
 #sudo apt-get install nmap yüklü olmadığı için hata sebebi kali sürümü için geçerli
-
+#nmap import edilmesi lazım 
 
 print("""
 port tarayıcı uygulamasına hoşgelniz
