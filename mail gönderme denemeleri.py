@@ -1,7 +1,7 @@
 import smtplib
-gmail ="drkablosuz@gmail.com"
-password= "5530035101ek"
-karşıtaraf="ibrahimek76@gmail.com"
+gmail ="kendi mailiniz"
+password= "kendi şifreniz"
+karşıtaraf="karsı tarafa gidicek mail"
 server= smtplib.SMTP("smtp.gmail.com",587)
 server.starttls()
 
